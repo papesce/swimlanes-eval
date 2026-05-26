@@ -7,6 +7,8 @@ A modern, interactive **swimlane visualization** for mapping goals, objectives, 
 ![React Flow](https://img.shields.io/badge/React%20Flow-12-ff0072?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
 
+![Swimlanes Goal Editor Demo](demo.png)
+
 ## What is this?
 
 A fully interactive canvas where you can visually organize your **Areas**, **Goals**, and **Tasks** in horizontal swim lanes — then draw labeled connections between them to express how work flows upward toward your big-picture objectives.
